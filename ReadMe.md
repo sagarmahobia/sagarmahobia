@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sagar-mahobia-1b748a13b/details/projects/](https://www.linkedin.com/in/sagar-mahobia-1b748a13b/details/projects/)
 
-- 📝 I regularly write articles on twitter [https://twitter.com/sagar_mahobia](https://twitter.com/sagar_mahobia)
+- 📝 I regularly write on twitter [https://twitter.com/sagar_mahobia](https://twitter.com/sagar_mahobia)
 
 - 💬 Ask me about **Flutter, NestJS, App Development**
 
