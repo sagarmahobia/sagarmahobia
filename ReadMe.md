@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar Mahobia</h1>
 <h3 align="center">Self taught full stack mobile developer from India.</h3>
 
-- 🔭 I’m currently working on [TheRivePlayer](https://github.com/sagarmahobia/TheRivePlayer)
+- 🔭 vyld.io
 
 - 🌱 I’m currently learning **NestJs, ReactJS**
 
-- 🤝 I’m looking for help with **React, NestJS, Android**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sagar-mahobia-1b748a13b/details/projects/](https://www.linkedin.com/in/sagar-mahobia-1b748a13b/details/projects/)
-
-- 📝 I regularly write on twitter [https://twitter.com/sagar_mahobia](https://twitter.com/sagar_mahobia)
+- 🤝 I’m looking for help with Flutter Animations
 
 - 💬 Ask me about **Flutter, NestJS, App Development**
 
