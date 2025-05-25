@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar Mahobia</h1>
 <h3 align="center">Self taught full stack mobile developer from India.</h3>
  
-- 💬 Ask me about **Flutter,  App Development**
+- 💬 Ask me about **Flutter, Android, App Development**
+
+- 📖  Learning iOS, NestJS  
+ 
+- 📆 2016 -  Present
 
 - 📫 How to reach me **sagarmahobia5@gmail.com**
 
