@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Mahobia</h1>
 <h3 align="center">Self taught full stack mobile developer from India.</h3>
-
-- 🔭 https://vyld.io
-
-- 🌱 I’m currently learning **Flutter
-
-- 🤝 I’m looking for help with Flutter Animations
-
-- 💬 Ask me about **Flutter, NestJS, App Development**
+ 
+- 💬 Ask me about **Flutter,  App Development**
 
 - 📫 How to reach me **sagarmahobia5@gmail.com**
 
