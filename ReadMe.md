@@ -3,7 +3,7 @@
  
 - 💬 Ask me about **Flutter, Android, App Development, AI Agents, Planning, and Applications Architecture**
 
-- 📁 Some of projects that I've built to demontrate wider skill state : [https://github.com/stars/sagarmahobia/lists/full-stack-favorites](https://github.com/stars/sagarmahobia/lists/full-stack-favorites)
+- 📁 Some of projects that I've built to demontrate wider skillset : [https://github.com/stars/sagarmahobia/lists/full-stack-favorites](https://github.com/stars/sagarmahobia/lists/full-stack-favorites)
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/sagar-mahobia-1b748a13b/](https://www.linkedin.com/in/sagar-mahobia-1b748a13b/)
 
